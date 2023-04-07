@@ -11,6 +11,7 @@
   </section>
 </div>
 
+
 ### 👩‍💻&nbsp;About Me :
 
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia
@@ -19,6 +20,8 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 💡 At the moment focused on applications powered by Vue/Nuxt js
 - 👩‍🎓 HTML Academy and Yandex Practicum graduate
 - 🔭 Always seeking for the new opportunities that will expand my skillset
+
+###### 👉 I work in a web studio and all my commercial projects are in private repositories, so here you can see my educational and pet projects only
 
 ---
 
