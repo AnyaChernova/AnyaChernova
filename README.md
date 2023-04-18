@@ -21,7 +21,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 👩‍🎓 HTML Academy and Yandex Practicum graduate
 - 🔭 Always seeking for the new opportunities that will expand my skillset
 
-###### 👉 I work in a web studio and all my commercial projects are in private repositories, so here you can see my educational, freelance or pet projects
+###### 👉 All my commercial projects are in private repositories, so here you can see my educational, freelance or pet projects
 
 ---
 
